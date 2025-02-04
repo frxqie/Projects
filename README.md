@@ -7,3 +7,5 @@ The projects are within the following topics:
   2) Deep Learning
   3) Business Analytics
   4) Beginner Data Scince Work
+
+Check the branches to view them :)
