@@ -1,7 +1,5 @@
-# Projects
-In this repository, I have a few projects I worked on as course work.
-The projects include: 
-  1) Machine Learning (Supervised and Unsupervised)
-  2) Deep Learning
-  3) Business Analytics
-  4) Beginner Data Scince Work
+# Deep Learning:
+In this branch, you will find a few projects about:
+  1) Building Neural Networks from scratch
+  2) Using Pre-trained Models
+  3) Building ResNet architecture from scratch
