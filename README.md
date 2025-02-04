@@ -1,11 +1,8 @@
-# Projects
+# Machine Learning I: Supervised Learning
 
-In this repository I have stored a few projects I have worked on.
-Most are course work so you will find attached with every project a pdf file containing what was asked of us to do, and in my project, you will see how I implemented what was asked of me.
-The projects are within the following topics:
-  1) Machine Learning (Supervised and Unsupervised)
-  2) Deep Learning
-  3) Business Analytics
-  4) Beginner Data Scince Work
+In this course we learned different types of supervised learning models:
+Linear Regression, Logistic Regrission, Decision Trees, Random Forest, KNN, Naive Bayes, and SVM.
+We also learned data cleaning techniques: Feature Encoding and Feature Scaling.
 
-Check the branches to view them :)
+At the end of the course, we worked on a big project and used all these models on a Housing Dataset.
+The file included shows the implementation of everything I learned. I used all the different models to get the highest accuarcy.
