@@ -1,9 +1,4 @@
-# Projects
+# Business Analytics
 
-In this repository I have stored a few projects I have worked on.
-Most are course work so you will find attached with every project a pdf file containing what was asked of us to do, and in my project, you will see how I implemented what was asked of me.
-The projects are within the following topics:
-  1) Machine Learning (Supervised and Unsupervised)
-  2) Deep Learning
-  3) Business Analytics
-  4) Beginner Data Scince Work
+In this project, I analyised the data of a Telecom Company and after doing Data Analysis, Science, and Engineering, I recommended actionable business insights to reduce Churn.
+Check PART2 for the summary and deliveries of my work.
