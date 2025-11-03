@@ -1,11 +1,7 @@
-# Projects
+# Natural Langauge Processing
 
-In this repository I have stored a few projects I have worked on.
-Most are course work so you will find attached with every project a pdf file containing what was asked of us to do, and in my project, you will see how I implemented what was asked of me.
-The projects are within the following topics:
-  1) Machine Learning (Supervised and Unsupervised)
-  2) Deep Learning
-  3) Business Analytics
-  4) Beginner Data Science Work
+I had an assignment in which we were asked to:
 
-Check the branches to view them :)
+Select an open-source language model of your choice (e.g., LLaMA 3, Mistral, Gemma, etc.) and fine-tune it using an instruction-based dataset. Your task is to:
+     1. Document your fine-tuning process — include model selection, dataset preparation, training configuration, and compute used.
+     2. Evaluate the model before and after fine-tuning using a set of testing prompts. Compare its performance with respect to f1, Rouge-L, and Bert-score
