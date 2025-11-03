@@ -5,7 +5,8 @@ Most are course work so you will find attached with every project a pdf file con
 The projects are within the following topics:
   1) Machine Learning (Supervised and Unsupervised)
   2) Deep Learning
-  3) Business Analytics
-  4) Beginner Data Science Work
+  3) Natural Language Processing
+  4) Business Analytics
+  5) Beginner Data Science Work
 
 Check the branches to view them :)
